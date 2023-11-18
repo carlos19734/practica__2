@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	font-family: arial;
+
+}
+
+	#titulo{
+		text-align: center;
+		color: white;
+	}
+	#opciones{
+ background-color:black;
+ display: flex;
+	}
+	header{
+		margin: auto;
+		width: 500px;
+	}
+	ul {
+		list-style: none;
+	}
+	nav li a{
+		background-color: black;
+		color: #fff;
+		padding: 10px 15px;
+		display: block;
+	}
+	nav li{
+		float: left;
+	}
+	a{
+		text-decoration: none;
+	}
+	.Nosotros{
+
+		background-color: black;
+		color:#FFff;
+		text-align:center;
+		font-family: arial;
+
+		}
+		.informacion{
+		margin top: 15px;
+		display: flex;
+		padding: 6px;
+		background-color: black;
+		margin:0 440px
+		}
